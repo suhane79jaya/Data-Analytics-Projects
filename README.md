@@ -1,9 +1,10 @@
-# Data-Analytics-Projects:FMCG Warehouse: Optimizing Amazon's Distribution Efficiency
+# Data-Analytics-Project:FMCG Warehouse: Optimizing Amazon's Distribution Efficiency
 
-![peerlist image](https://github.com/user-attachments/assets/f1adaa9c-b334-4a19-b740-a18bbd18d45b)
+                        ![peerlist image](https://github.com/user-attachments/assets/f1adaa9c-b334-4a19-b740-a18bbd18d45b)
+
 **Project Title**: FMCG Warehouse: Optimizing Amazon's Distribution Efficiency
 
-Overview:
+**Overview:**
 This project focused on analyzing and optimizing Amazon’s warehouse and distribution operations specifically for the Fast-Moving Consumer Goods (FMCG) segment. Given the high velocity and volume of FMCG products, the goal was to enhance warehouse performance, streamline inventory flow, and improve delivery turnaround time while minimizing costs.
 
 **Objectives:**
@@ -15,6 +16,7 @@ Optimize inventory placement and picking routes to reduce handling time
 Apply data-driven demand forecasting to better manage stock levels.
 
 ****Methodology****
+
 Conducted end-to-end warehouse process mapping.
 
 Used historical order patterns to build a predictive demand model
