@@ -35,3 +35,5 @@ Delivered a scalable blueprint for high-throughput FMCG distribution in large fu
 
 Tools & Technologies:
 Power Bi, Excel, Word,Power Point
+
+https://peerlist.io/jayasuhane/project/fmcg-warehouse-optimizing-amazons-distribution-efficiency
