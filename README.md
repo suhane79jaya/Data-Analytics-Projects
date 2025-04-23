@@ -1,6 +1,6 @@
 # Data-Analytics-Project:FMCG Warehouse: Optimizing Amazon's Distribution Efficiency
 
-                        ![peerlist image](https://github.com/user-attachments/assets/f1adaa9c-b334-4a19-b740-a18bbd18d45b)
+![peerlist image](https://github.com/user-attachments/assets/f1adaa9c-b334-4a19-b740-a18bbd18d45b)
 
 **Project Title**: FMCG Warehouse: Optimizing Amazon's Distribution Efficiency
 
